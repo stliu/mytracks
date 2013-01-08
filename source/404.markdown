@@ -3,6 +3,4 @@ layout: page
 title: Page not found (Error 404)
 ---
 
-Though several brave pugs died in the attempt, that page could not be found.
-
-Try the search box on the right, or browse through [all posts]({{root_url}}/).
+<iframe scrolling='no' frameborder='0' src='http://yibo.iyiyun.com/js/yibo404' width='735' height='700' style="display:block;"></iframe>
