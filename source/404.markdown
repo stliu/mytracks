@@ -1,6 +1,0 @@
----
-layout: page
-title: Page not found (Error 404)
----
-
-<iframe scrolling='no' frameborder='0' src='http://yibo.iyiyun.com/js/yibo404' width='735' height='700' style="display:block;"></iframe>
