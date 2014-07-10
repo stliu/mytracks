@@ -1,0 +1,64 @@
+install ansible
+install ant
+install brew-cask
+install cassandra
+install ctags
+install curl --with-openssl
+install ejabberd
+install gcc46
+install git
+install gnu-sed
+install go
+install gradle
+install htop-osx
+install libev
+install libksba
+install maven
+install python3
+install redis
+install scala
+install ssh-copy-id
+install thrift --with-erlang --with-java --with-php --with-python
+install vim --override-system-vi
+install wget
+
+######### Brew Cask Applications ###################
+
+# fun
+cask install mplayerx
+cask install picasa
+cask install flash
+
+# dev
+cask install iterm2
+cask install virtualbox
+cask install vagrant
+cask install intellij-idea
+
+# system tool
+cask install onyx
+cask install alfred
+cask install evernote
+cask install the-unarchiver
+cask install thunder
+cask install youdao
+cask install bittorrent-sync
+
+# social
+cask install wechat
+cask install qq
+cask install adium
+cask install limechat
+cask install skype
+
+# editors
+cask install textmate
+cask install atom
+cask install mou
+
+# browsers
+cask install firefox
+cask install google-chrome
+
+# link alfred
+cask alfred link
